@@ -40,7 +40,7 @@ The main steps are as follows, as illustrated in Fig. 2 (Novel-view generation s
 
 ---
 
-Examples of Synthesized Data
+### Examples of Synthesized Data
 
 Below are example synthesized videos under different view angles.  
 Each GIF links to the corresponding `.mp4` video.
